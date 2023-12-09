@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 
 ## Para usar, copie seu .pfx para a raiz do projeto 
-## Feito isso você apenas precisa iniciar o main.py
+## Feito isso você apenas precisa iniciar o arquivo main.py
 ```python
 
 python3 main.py
